@@ -1,0 +1,5 @@
+{
+  "name": "Smartcapitalhub_VER03",
+  "description": "A dynamic capital allocation tool for the Vietnamese stock market using DNSE Lightspeed API patterns. Optimize your portfolio based on real-time trends and expected returns.",
+  "requestFramePermissions": []
+}
